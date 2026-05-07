@@ -1,0 +1,53 @@
+site_name: Trabalho 2 — Pipeline Delta Lake com MinIO
+site_description: Pipeline SQL Server → MinIO Landing Zone (CSV) → Delta Lake Bronze
+site_author: Thiago Mazuco
+repo_url: https://github.com/Thiago757/trabalho-2-delta-minio
+repo_name: Thiago757/trabalho-2-delta-minio
+
+theme:
+  name: material
+  language: pt
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Modo escuro
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Modo claro
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+
+plugins:
+  - search
+  - mermaid2
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Início: index.md
+  - Pipeline: pipeline.md
+  - Delta Lake: delta.md
+  - MinIO: minio.md
