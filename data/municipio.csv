@@ -1,0 +1,41 @@
+id,nome,estado_id,cep_prefixo
+1,São Paulo,24,01000
+2,Campinas,24,13000
+3,Santos,24,11000
+4,Ribeirão Preto,24,14000
+5,Sorocaba,24,18000
+6,Rio de Janeiro,23,20000
+7,Niterói,23,24000
+8,Petrópolis,23,25600
+9,Belo Horizonte,22,30000
+10,Uberlândia,22,38400
+11,Juiz de Fora,22,36000
+12,Curitiba,25,80000
+13,Londrina,25,86000
+14,Maringá,25,87000
+15,Porto Alegre,26,90000
+16,Caxias do Sul,26,95000
+17,Pelotas,26,96000
+18,Florianópolis,27,88000
+19,Joinville,27,89200
+20,Blumenau,27,89000
+21,Brasília,17,70000
+22,Goiânia,18,74000
+23,Anápolis,18,75000
+24,Manaus,2,69000
+25,Belém,3,66000
+26,Porto Velho,4,76800
+27,Fortaleza,10,60000
+28,Recife,13,50000
+29,Salvador,9,40000
+30,Natal,15,59000
+31,Maceió,8,57000
+32,Teresina,14,64000
+33,São Luís,11,65000
+34,João Pessoa,12,58000
+35,Aracaju,16,49000
+36,Campo Grande,20,79000
+37,Cuiabá,19,78000
+38,Vitória,21,29000
+39,Macapá,7,68900
+40,Boa Vista,5,69300

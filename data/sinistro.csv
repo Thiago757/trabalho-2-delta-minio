@@ -1,0 +1,21 @@
+id,apolice_id,data_ocorrencia,tipo_sinistro,descricao,valor_dano,valor_indenizacao,status
+1,1,2023-03-10,Colisão,Batida traseira em semáforo,8500.00,8500.00,pago
+2,3,2023-05-22,Roubo,Veículo roubado à noite,115000.00,110000.00,pago
+3,4,2023-07-15,Colisão,Acidente em cruzamento,12000.00,12000.00,pago
+4,6,2023-08-03,Incêndio,Incêndio no motor,45000.00,45000.00,pago
+5,7,2023-09-18,Colisão,Colisão lateral em via expressa,18000.00,18000.00,em_analise
+6,8,2023-10-25,Roubo,Furto de acessórios,3500.00,3500.00,pago
+7,9,2023-11-12,Colisão,Capotamento em estrada,25000.00,25000.00,pago
+8,10,2023-12-01,Incêndio,Incêndio por curto-circuito,50000.00,50000.00,em_analise
+9,12,2024-01-08,Colisão,Batida em poste,6000.00,6000.00,pago
+10,13,2024-01-30,Colisão,Colisão traseira em rodovia,22000.00,22000.00,em_analise
+11,14,2024-02-18,Roubo,Veículo roubado em estacionamento,88000.00,85000.00,em_analise
+12,1,2024-03-05,Colisão,Segunda ocorrência - batida lateral,5500.00,5500.00,cancelado
+13,22,2024-03-20,Colisão,Acidente com moto,9000.00,9000.00,pago
+14,23,2024-04-11,Incêndio,Incêndio no veículo,35000.00,35000.00,em_analise
+15,25,2024-04-28,Colisão,Colisão em manobra,4500.00,4500.00,pago
+16,27,2024-05-15,Roubo,Assalto à mão armada,102000.00,100000.00,em_analise
+17,28,2024-05-30,Colisão,Batida traseira,11000.00,11000.00,pago
+18,2,2024-06-10,Terceiros,Dano a veículo de terceiros,7800.00,7800.00,pago
+19,5,2024-06-25,Terceiros,Dano a patrimônio de terceiros,3200.00,3200.00,cancelado
+20,11,2024-07-08,Terceiros,Colisão com outro veículo,5000.00,5000.00,pago

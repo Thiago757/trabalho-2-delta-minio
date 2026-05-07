@@ -1,0 +1,61 @@
+id,cliente_id,municipio_id,logradouro,numero,complemento,cep
+1,1,1,Rua das Flores,123,Apto 45,01310-100
+2,2,2,Av. Brasil,456,,13015-000
+3,3,6,Rua do Catete,789,Casa,22221-000
+4,4,9,Av. Afonso Pena,321,Sala 12,30130-001
+5,5,12,Rua XV de Novembro,654,,80020-310
+6,6,15,Av. Ipiranga,987,Bloco B,90160-093
+7,7,18,Rua Felipe Schmidt,147,,88010-000
+8,8,21,SQN 204,258,Bloco K,70840-040
+9,9,22,Av. Goiás,369,,74015-010
+10,10,27,Rua Barão de Studart,741,,60120-000
+11,11,28,Av. Boa Viagem,852,,51011-000
+12,12,29,Av. Sete de Setembro,963,,40060-001
+13,13,30,Av. Hermes da Fonseca,159,,59020-000
+14,14,31,Rua João Pessoa,357,,57020-000
+15,15,32,Av. Frei Serafim,753,,64001-010
+16,16,33,Rua Grande,246,,65010-000
+17,17,34,Av. Epitácio Pessoa,864,,58030-000
+18,18,35,Av. Ivo do Prado,135,,49015-010
+19,19,36,Av. Afonso Pena,579,,79010-000
+20,20,37,Av. Isaac Póvoas,468,,78005-000
+21,21,38,Av. Vitória,321,,29017-000
+22,22,3,Tv. Padre Eutíquio,654,,66025-000
+23,23,4,Av. Sete de Setembro,987,,76801-010
+24,24,24,Av. Eduardo Ribeiro,147,,69010-000
+25,25,39,Rua Jovino Dinóa,258,,68900-000
+26,26,40,Av. Ville Roy,369,,69301-000
+27,27,1,Rua Augusta,741,,01305-000
+28,28,2,Rua Barão de Jaguara,852,,13015-001
+29,29,5,Av. São Francisco,963,,18040-000
+30,30,6,Rua Voluntários da Pátria,159,,22270-000
+31,31,7,Rua Coronel Moreira César,357,,24230-000
+32,32,8,Rua São Pedro,753,,25620-000
+33,33,9,Rua da Bahia,246,,30160-011
+34,34,10,Av. Rondon Pacheco,864,,38405-000
+35,35,11,Av. Barão do Rio Branco,135,,36010-000
+36,36,12,Rua das Flores,579,,80020-000
+37,37,13,Av. Higienópolis,468,,86020-000
+38,38,14,Av. Brasil,321,,87013-000
+39,39,15,Rua dos Andradas,654,,90020-000
+40,40,16,Rua Sinimbu,987,,95020-000
+41,41,17,Rua Quinze de Novembro,147,,96010-000
+42,42,18,Av. Hercílio Luz,258,,88020-000
+43,43,19,Rua Principe,369,,89200-000
+44,44,20,Rua XV de Novembro,741,,89010-000
+45,45,21,Av. Beira Mar,852,,29058-000
+46,46,22,Rua 10,963,,74010-000
+47,47,23,Rua Engenheiro Portela,159,,75110-000
+48,48,1,Rua Consolação,357,,01301-000
+49,49,2,Av. Norte Sul,753,,13100-000
+50,50,6,Rua Paysandu,246,,20940-000
+51,51,9,Rua Bernardo Guimarães,864,,30140-000
+52,52,12,Rua Ébano Pereira,135,,80010-000
+53,53,15,Av. Cristóvão Colombo,579,,90560-000
+54,54,18,Rua Fúlvio Aducci,468,,88025-000
+55,55,1,Rua Bela Cintra,321,,01415-000
+56,56,2,Av. John Boyd Dunlop,654,,13059-000
+57,57,6,Rua Senador Dantas,987,,20031-000
+58,58,9,Av. do Contorno,147,,30110-000
+59,59,12,Rua Marechal Deodoro,258,,80010-020
+60,60,15,Av. Osvaldo Aranha,369,,90035-190

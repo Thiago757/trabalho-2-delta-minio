@@ -1,0 +1,28 @@
+id,nome,sigla,regiao_id
+1,Acre,AC,1
+2,Amazonas,AM,1
+3,Pará,PA,1
+4,Rondônia,RO,1
+5,Roraima,RR,1
+6,Tocantins,TO,1
+7,Amapá,AP,1
+8,Alagoas,AL,2
+9,Bahia,BA,2
+10,Ceará,CE,2
+11,Maranhão,MA,2
+12,Paraíba,PB,2
+13,Pernambuco,PE,2
+14,Piauí,PI,2
+15,Rio Grande do Norte,RN,2
+16,Sergipe,SE,2
+17,Distrito Federal,DF,3
+18,Goiás,GO,3
+19,Mato Grosso,MT,3
+20,Mato Grosso do Sul,MS,3
+21,Espírito Santo,ES,4
+22,Minas Gerais,MG,4
+23,Rio de Janeiro,RJ,4
+24,São Paulo,SP,4
+25,Paraná,PR,5
+26,Rio Grande do Sul,RS,5
+27,Santa Catarina,SC,5
