@@ -10,7 +10,6 @@ services:
       - "1433:1433"
     volumes:
       - sqlserver-data:/var/opt/mssql
-      - ./data:/var/opt/mssql/data/csv
     networks:
       - data-network
     healthcheck:
