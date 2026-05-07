@@ -1,0 +1,31 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Delta tables (gerados localmente)
+delta_tables/
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# UV
+.uv/
